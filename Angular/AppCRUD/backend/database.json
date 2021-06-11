@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta azul",
+      "price": 1.99
+    },
+    {
+      "id": 2,
+      "name": "caderno",
+      "price": 22.98
+    },
+    {
+      "id": 3,
+      "name": "mochila",
+      "price": 129.99
+    }
+  ]
+}
